@@ -3354,3 +3354,11 @@ input, select, textarea {
 				}
 
 	}
+
+.icon-img{
+	text-align: center;
+	justify-content: center;
+	justify-self: center;
+	width: 10em;
+	height: 100%;
+}
